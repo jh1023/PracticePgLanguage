@@ -1,10 +1,10 @@
 # [level unrated] a와 b 출력하기 - 181951 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181951?language=csharp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181951?language=python3) 
 
 ### 성능 요약
 
-메모리: 16.7 MB, 시간: 31.70 ms
+메모리: 7.38 MB, 시간: 15.65 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 10월 4일 9:1:7
+2023년 10월 5일 13:46:46
 
 ### 문제 설명
 
