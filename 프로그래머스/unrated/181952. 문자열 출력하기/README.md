@@ -1,10 +1,10 @@
 # [level unrated] 문자열 출력하기 - 181952 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=c) 
 
 ### 성능 요약
 
-메모리: 7.39 MB, 시간: 11.52 ms
+메모리: 4.2 MB, 시간: 1.98 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 10월 5일 13:44:31
+2023년 10월 6일 22:16:57
 
 ### 문제 설명
 
