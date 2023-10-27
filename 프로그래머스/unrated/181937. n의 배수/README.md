@@ -1,10 +1,10 @@
 # [level unrated] n의 배수 - 181937 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181937?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181937?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.15 MB, 시간: 0.01 ms
+메모리: 31.1 MB, 시간: 0.14 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 10월 6일 8:18:32
+2023년 10월 6일 8:18:41
 
 ### 문제 설명
 
