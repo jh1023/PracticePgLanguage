@@ -1,6 +1,6 @@
 # [level unrated] flag에 따라 다른 값 반환하기 - 181933 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181933?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181933?language=c) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 6일 15:13:28
+2023년 11월 6일 15:14:21
 
 ### 문제 설명
 
